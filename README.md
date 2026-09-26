@@ -81,7 +81,7 @@ customer-management-api/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/customer-management-api.git
+git clone https://github.com/raquelgoncalo/customer-management-api.git
 cd customer-management-api
 ```
 
