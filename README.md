@@ -1,5 +1,7 @@
 # Customer Management API
 
+<img width="1920" height="2008" alt="image" src="https://github.com/user-attachments/assets/48b35f3a-0403-4054-8260-29051bacabfc" />
+
 API REST para gerenciamento de clientes, desenvolvida com Python e FastAPI, com persistência em PostgreSQL e autenticação baseada em JWT.
 
 O projeto implementa operações CRUD de clientes, cadastro e autenticação de usuários, proteção de endpoints e armazenamento seguro de senhas com Argon2.
@@ -156,3 +158,6 @@ O FastAPI gera automaticamente documentação interativa através do Swagger UI 
 ## Status
 
 Projeto funcional desenvolvido para demonstração de uma API REST com autenticação, banco de dados relacional e operações CRUD.
+
+<a href="https://customer-management-api-9yft.onrender.com/docs">Live Preview</a>
+========
